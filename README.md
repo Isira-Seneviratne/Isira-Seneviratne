@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Isira
 
 <!--
 **Isira-Seneviratne/Isira-Seneviratne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Isira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isira-Seneviratne)](https://github.com/Isira-Seneviratne/github-readme-stats)
